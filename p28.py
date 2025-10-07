@@ -12,7 +12,7 @@ def entrada_datos():
 # Programa principal
 l = entrada_datos()
 vocales = []
-consonantes = []
+consonantes = tuple() # tupla vacía
 
 for palabra in l:
     if palabra[0] in ['a','e','i','o','u','A','E','I','O','U']:
@@ -20,9 +20,7 @@ for palabra in l:
             vocales.append(palabra)
     else:
         if not palabra in consonantes:
-            consonantes.append(palabra)
-
-consonantes = tuple(consonantes)
+            consonantes = consonantes + (palabra,) #concatenación de tuplas -> se crea una nueva
 
 print("Lista de palabras:", l)
 print("Palabras que comienzan por vocal:", vocales)
