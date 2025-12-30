@@ -1,0 +1,101 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+CUST1000,masculino,0,sí,sí,52,sí,No,Month-to-month,sí,Mailed check,83.76,4423.71,no
+CUST1001,masculino,0,no,no,15,sí,Fiber optic,Two year,sí,Credit card,108.72,1757.76,no
+CUST1002,femenino,1,no,sí,72,no,Fiber optic,Two year,no,Mailed check,67.22,4823.62,sí
+CUST1003,masculino,0,no,sí,61,sí,Fiber optic,Two year,no,Mailed check,31.96,1939.27,sí
+CUST1004,masculino,0,sí,no,21,no,No,Month-to-month,no,Electronic check,91.32,1845.72,no
+CUST1005,masculino,0,sí,sí,24,no,Fiber optic,Two year,sí,Bank transfer,96.08,2365.46,sí
+CUST1006,masculino,1,sí,sí,3,no,Fiber optic,Two year,no,Mailed check,76.13,293.36,no
+CUST1007,femenino,1,no,sí,22,sí,Fiber optic,Two year,no,Bank transfer,97.1,2092.84,sí
+CUST1008,femenino,0,no,no,53,no,No,Month-to-month,no,Mailed check,69.38,3708.02,sí
+CUST1009,masculino,1,no,no,2,sí,Fiber optic,Two year,no,Credit card,72.27,205.39,sí
+CUST1010,femenino,1,no,sí,30,no,DSL,Month-to-month,sí,Bank transfer,62.75,1893.81,no
+CUST1011,femenino,0,no,sí,38,no,No,One year,no,Mailed check,22.54,898.89,sí
+CUST1012,masculino,0,sí,sí,2,no,Fiber optic,Two year,sí,Bank transfer,30.79,70.32,sí
+CUST1013,masculino,1,no,no,64,no,DSL,One year,sí,Mailed check,23.14,1420.12,sí
+CUST1014,femenino,0,no,sí,60,no,Fiber optic,Two year,no,Bank transfer,83.64,5070.87,no
+CUST1015,masculino,0,sí,sí,21,sí,Fiber optic,Two year,sí,Bank transfer,51.44,1146.5,no
+CUST1016,femenino,0,no,sí,33,sí,DSL,One year,no,Mailed check,70.86,2375.11,sí
+CUST1017,femenino,0,no,no,58,sí,No,Month-to-month,no,Mailed check,110.76,6376.36,no
+CUST1018,femenino,1,sí,no,22,no,,Two year,sí,Bank transfer,44.93,950.9,sí
+CUST1019,masculino,0,sí,no,49,sí,Fiber optic,Two year,sí,Mailed check,61.04,2934.44,sí
+CUST1020,masculino,1,sí,no,59,sí,DSL,One year,sí,Credit card,95.56,5676.54,no
+CUST1021,femenino,1,no,sí,42,sí,DSL,Month-to-month,sí,Electronic check,42.88,1864.38,no
+CUST1022,femenino,0,no,sí,60,sí,DSL,Month-to-month,sí,Credit card,27.7,1683.22,no
+CUST1023,masculino,1,sí,no,15,no,No,One year,sí,Bank transfer,48.98,781.73,sí
+CUST1024,masculino,0,no,no,62,no,DSL,One year,sí,Credit card,36.12,2196.06,no
+CUST1025,femenino,0,sí,no,62,no,Fiber optic,Two year,no,Electronic check,112.97,7011.43,no
+CUST1026,masculino,0,no,no,47,sí,Fiber optic,Two year,sí,Electronic check,100.81,,sí
+CUST1027,masculino,1,no,sí,62,sí,Fiber optic,Two year,no,Mailed check,83.34,,sí
+CUST1028,masculino,0,sí,no,51,sí,DSL,Month-to-month,sí,Electronic check,107.15,5508.58,no
+CUST1029,femenino,1,no,sí,55,sí,DSL,Month-to-month,sí,Mailed check,100.37,,sí
+CUST1030,masculino,1,sí,no,64,sí,DSL,One year,sí,Credit card,38.66,2534.71,no
+CUST1031,femenino,1,sí,no,3,no,DSL,Month-to-month,sí,Electronic check,109.26,354.68,no
+CUST1032,femenino,0,no,sí,51,sí,No,One year,no,Electronic check,73.93,3907.15,sí
+CUST1033,masculino,0,sí,no,7,no,Fiber optic,Two year,no,Bank transfer,100.74,709.87,no
+CUST1034,femenino,1,no,sí,21,sí,Fiber optic,Two year,no,Electronic check,109.61,2231.49,no
+CUST1035,femenino,0,no,no,39,sí,DSL,One year,sí,Credit card,51.8,2018.47,sí
+CUST1036,masculino,1,sí,no,18,sí,No,One year,no,Bank transfer,31.01,510.03,sí
+CUST1037,femenino,1,no,no,4,no,Fiber optic,Two year,sí,Bank transfer,42.79,220.02,sí
+CUST1038,femenino,0,sí,no,60,no,Fiber optic,Two year,sí,Mailed check,62.71,3764.7,sí
+CUST1039,masculino,1,sí,sí,14,sí,No,One year,no,Mailed check,101.8,1418.34,sí
+CUST1040,masculino,0,sí,no,9,no,No,One year,no,Electronic check,106.07,948.42,no
+CUST1041,masculino,1,no,no,53,no,Fiber optic,Two year,sí,Bank transfer,20.7,1134.12,sí
+CUST1042,masculino,0,sí,sí,2,sí,,One year,sí,Bank transfer,71.07,119.52,sí
+CUST1043,masculino,1,sí,no,60,sí,DSL,Month-to-month,sí,Credit card,61.74,3743.25,no
+CUST1044,masculino,0,no,sí,71,no,DSL,One year,sí,Bank transfer,42.21,3049.19,sí
+CUST1045,femenino,1,sí,sí,44,sí,Fiber optic,Two year,sí,Credit card,31.99,1390.45,no
+CUST1046,masculino,0,sí,sí,8,no,No,One year,sí,Bank transfer,53.76,383.78,sí
+CUST1047,femenino,0,sí,sí,47,no,DSL,Month-to-month,no,Credit card,114.29,5345.98,no
+CUST1048,femenino,0,sí,sí,35,no,No,One year,sí,Credit card,52.32,1866.71,no
+CUST1049,femenino,1,sí,no,36,sí,Fiber optic,Two year,sí,Bank transfer,71.88,2592.3,sí
+CUST1050,femenino,1,sí,sí,50,no,DSL,One year,no,Credit card,90.3,4546.5,no
+CUST1051,femenino,1,sí,sí,4,sí,DSL,One year,no,Electronic check,56.36,313.59,no
+CUST1052,femenino,1,sí,sí,2,no,No,Month-to-month,no,Bank transfer,117.18,245.91,no
+CUST1053,masculino,1,sí,no,6,sí,DSL,Month-to-month,sí,Bank transfer,116.24,656.99,sí
+CUST1054,femenino,0,no,no,54,no,Fiber optic,Two year,sí,Electronic check,45.18,2492.59,no
+CUST1055,masculino,0,sí,no,4,sí,Fiber optic,Two year,sí,Credit card,69.72,281.45,no
+CUST1056,femenino,1,no,no,54,no,No,Month-to-month,sí,Electronic check,50.09,2748.48,sí
+CUST1057,femenino,1,no,no,63,sí,No,Month-to-month,no,Credit card,48.48,3107.55,sí
+CUST1058,masculino,1,sí,sí,18,no,DSL,One year,sí,Electronic check,23.69,378.47,sí
+CUST1059,masculino,1,no,no,44,no,Fiber optic,Two year,no,Bank transfer,80.96,3631.34,no
+CUST1060,masculino,0,no,no,34,sí,DSL,Month-to-month,no,Electronic check,70.27,2434.44,sí
+CUST1061,masculino,1,sí,sí,62,sí,DSL,Month-to-month,sí,Credit card,25.15,1529.1,sí
+CUST1062,femenino,1,no,sí,14,sí,Fiber optic,Two year,no,Electronic check,47.86,685.26,no
+CUST1063,femenino,1,sí,no,48,no,No,Month-to-month,sí,Mailed check,110.83,5332.7,sí
+CUST1064,femenino,0,sí,sí,15,sí,DSL,One year,no,Credit card,43.96,660.6,sí
+CUST1065,masculino,1,no,sí,72,sí,No,Month-to-month,sí,Credit card,34.49,2526.88,no
+CUST1066,femenino,1,no,no,62,no,Fiber optic,Two year,sí,Electronic check,68.95,4346.77,no
+CUST1067,masculino,0,no,no,40,sí,No,One year,sí,Bank transfer,118.57,4743.17,no
+CUST1068,femenino,1,no,no,53,sí,DSL,One year,sí,Mailed check,44.21,2409.67,no
+CUST1069,femenino,0,no,sí,24,sí,Fiber optic,Two year,sí,Mailed check,87.21,2142.45,no
+CUST1070,masculino,1,no,sí,26,sí,Fiber optic,Two year,sí,Credit card,96.16,,no
+CUST1071,masculino,0,sí,sí,60,no,Fiber optic,Two year,no,Mailed check,43.76,2634.41,no
+CUST1072,masculino,1,sí,sí,41,sí,DSL,Month-to-month,no,Electronic check,92.82,3747.99,no
+CUST1073,femenino,0,sí,sí,29,sí,Fiber optic,Two year,sí,Credit card,56.78,1571.58,no
+CUST1074,masculino,1,sí,sí,15,sí,DSL,Month-to-month,sí,Credit card,83.23,1256.7,no
+CUST1075,masculino,0,no,sí,45,no,DSL,One year,no,Mailed check,83.35,,sí
+CUST1076,femenino,0,no,no,65,no,No,One year,no,Mailed check,73.58,4780.72,no
+CUST1077,femenino,1,no,no,71,no,Fiber optic,Two year,sí,Bank transfer,29.03,2034.4,sí
+CUST1078,masculino,1,no,no,9,sí,Fiber optic,Two year,no,Credit card,103.53,842.35,sí
+CUST1079,femenino,0,no,no,1,sí,DSL,One year,sí,Credit card,52.08,69.95,sí
+CUST1080,femenino,0,no,sí,8,sí,DSL,One year,sí,Credit card,38.65,288.47,sí
+CUST1081,masculino,1,no,sí,63,sí,Fiber optic,Two year,no,Electronic check,24.08,1521.05,no
+CUST1082,masculino,1,no,sí,11,sí,No,One year,no,Bank transfer,79.09,825.33,sí
+CUST1083,masculino,1,no,no,8,sí,DSL,Month-to-month,no,Mailed check,87.76,685.34,no
+CUST1084,femenino,1,no,sí,35,sí,Fiber optic,Two year,no,Credit card,21.66,836.12,no
+CUST1085,masculino,1,sí,sí,35,no,DSL,Month-to-month,no,Bank transfer,71.21,2498.78,sí
+CUST1086,masculino,1,sí,no,33,no,Fiber optic,Two year,sí,Mailed check,42.65,1434.93,sí
+CUST1087,masculino,0,no,sí,5,no,No,Month-to-month,sí,Mailed check,84.52,359.06,no
+CUST1088,femenino,1,sí,sí,41,no,Fiber optic,Two year,sí,Mailed check,37.44,1654.49,no
+CUST1089,femenino,1,sí,sí,28,sí,No,Month-to-month,no,Mailed check,89.09,2586.69,no
+CUST1090,masculino,0,sí,sí,7,sí,DSL,Month-to-month,sí,Electronic check,58.67,478.86,sí
+CUST1091,masculino,1,sí,sí,72,sí,DSL,Month-to-month,no,Mailed check,113.67,8225.68,sí
+CUST1092,femenino,0,sí,no,12,sí,DSL,Month-to-month,no,Mailed check,33.75,405.76,no
+CUST1093,femenino,0,no,sí,34,sí,DSL,One year,no,Mailed check,54.11,1861.84,no
+CUST1094,masculino,1,sí,no,33,no,DSL,Month-to-month,sí,Bank transfer,31.35,1086.95,sí
+CUST1095,femenino,0,no,sí,48,sí,Fiber optic,Two year,sí,Mailed check,112.47,5367.13,sí
+CUST1096,femenino,0,sí,no,23,no,No,One year,no,Bank transfer,107.73,2455.57,no
+CUST1097,femenino,1,no,no,62,no,Fiber optic,Two year,sí,Bank transfer,45.79,2755.52,no
+CUST1098,femenino,1,sí,sí,37,no,DSL,One year,sí,Credit card,86.0,3143.41,sí
+CUST1099,femenino,1,no,sí,44,no,,Two year,sí,Mailed check,101.72,4558.75,no
