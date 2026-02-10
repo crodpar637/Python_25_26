@@ -1,11 +1,13 @@
-import MySQLdb
+#import MySQLdb
+import pymysql
 
 def getConnection():
-    db_host = 'localhost'
+    db_host = 'db'
     usuario = 'root'
     clave = 'test'
     base_de_datos = 'empresa'
-    conn = MySQLdb.connect(host=db_host, user=usuario, passwd=clave, db=base_de_datos)
+    #conn = MySQLdb.connect(host=db_host, user=usuario, passwd=clave, db=base_de_datos)
+    conn = pymysql.connect(host=db_host, user=usuario, passwd=clave, db=base_de_datos)
     
     return conn
 
