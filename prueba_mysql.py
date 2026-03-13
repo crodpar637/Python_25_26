@@ -4,7 +4,7 @@ connection = pymysql.connect(
     host="db",      # nombre del server en docker
     user="root",
     password="test",
-    database="libreria",
+    database="cine_examen",
     port=3306
 )
 
